@@ -31,7 +31,7 @@ body{
 .half-width
 {
   width: 80%;
-  padding: 5%;
+  padding: 5% ;
  
 }
 
@@ -55,9 +55,7 @@ body{
 }
 .center-it
 {
-    margin-left: 400px;
-    margin-right: auto;
-    width: 50%;
+    padding: 0% 30%; 
     text-align: center;
 }
 
@@ -79,9 +77,9 @@ body{
 {
   width: 50%;
 }
-p
+h5
 {
-  font-weight: 200;
+  font-weight: 100;
 }
 .half-card> h3,p
 {
@@ -92,7 +90,7 @@ p
 {
   justify-content: space-between;
   display: flex;
-  padding: 0% 8%;
+  padding: 8px 10%;
   text-align: center;
 }
 
