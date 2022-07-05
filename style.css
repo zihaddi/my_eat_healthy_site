@@ -1,0 +1,109 @@
+body{
+  margin: 10px;
+  margin: 0%;
+  font-family: 'Poppins', sans-serif;
+}
+.span-color
+{
+  color: orange;
+}
+.big-text{
+ font-size: 45px;
+}
+
+
+.flexing
+{
+  display: flex;
+  
+}
+
+.btn-design
+{
+  background-image: linear-gradient(orange,tomato);
+  padding: 14px 20px;
+  text-decoration: none;
+  border-radius: 30px;
+  color: white;
+  font-weight: 700;
+}
+
+.half-width
+{
+  width: 80%;
+  padding: 5%;
+ 
+}
+
+
+
+.half-width img
+{
+  width: 80%;
+ 
+}
+
+.background_pic
+{
+  background-image: url(./images/shapes/Frame\ 58.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.medium-text
+{
+  font-weight: 300;
+}
+.center-it
+{
+    margin-left: 400px;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.design-box{
+    padding: 2%;
+    margin: 2% 8%;
+    box-shadow: 10px 10px 10px  gray,-3px -3px 15px  gray;;
+    border-radius: 10px;
+    background-size: 50px;
+}
+
+.half-card img
+{
+  width: 100%;
+ 
+}
+
+.half-card
+{
+  width: 50%;
+}
+p
+{
+  font-weight: 200;
+}
+.half-card> h3,p
+{
+ text-align: center;
+}
+
+.three-space-flex
+{
+  justify-content: space-between;
+  display: flex;
+  padding: 0% 8%;
+  text-align: center;
+}
+
+footer 
+{
+  text-align: center;
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+
+
+
+
